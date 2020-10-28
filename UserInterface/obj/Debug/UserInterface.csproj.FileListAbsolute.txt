@@ -1,0 +1,10 @@
+C:\workroot\ThoseWhoPrintFight\UserInterface\bin\Debug\UserInterface.exe.config
+C:\workroot\ThoseWhoPrintFight\UserInterface\bin\Debug\UserInterface.exe
+C:\workroot\ThoseWhoPrintFight\UserInterface\bin\Debug\UserInterface.pdb
+C:\workroot\ThoseWhoPrintFight\UserInterface\bin\Debug\ThoseWhoPrintFight.dll
+C:\workroot\ThoseWhoPrintFight\UserInterface\bin\Debug\ThoseWhoPrintFight.pdb
+C:\workroot\ThoseWhoPrintFight\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\workroot\ThoseWhoPrintFight\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\workroot\ThoseWhoPrintFight\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+C:\workroot\ThoseWhoPrintFight\UserInterface\obj\Debug\UserInterface.exe
+C:\workroot\ThoseWhoPrintFight\UserInterface\obj\Debug\UserInterface.pdb

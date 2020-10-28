@@ -1,0 +1,6 @@
+C:\workroot\ThoseWhoPrintFight\ThoseWhoPrintFight\bin\Debug\ThoseWhoPrintFight.dll
+C:\workroot\ThoseWhoPrintFight\ThoseWhoPrintFight\bin\Debug\ThoseWhoPrintFight.pdb
+C:\workroot\ThoseWhoPrintFight\ThoseWhoPrintFight\obj\Debug\ThoseWhoPrintFight.csprojAssemblyReference.cache
+C:\workroot\ThoseWhoPrintFight\ThoseWhoPrintFight\obj\Debug\ThoseWhoPrintFight.csproj.CoreCompileInputs.cache
+C:\workroot\ThoseWhoPrintFight\ThoseWhoPrintFight\obj\Debug\ThoseWhoPrintFight.dll
+C:\workroot\ThoseWhoPrintFight\ThoseWhoPrintFight\obj\Debug\ThoseWhoPrintFight.pdb
